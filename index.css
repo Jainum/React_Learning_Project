@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  border: 1px dotted blue;
+  font-family: "Comic Sans MS";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
